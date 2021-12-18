@@ -1,0 +1,23 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "source_codes/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/venanceagnero/companyweb.git"
+  },
+  "author": "Vagnero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/venanceagnero/companyweb/issues"
+  },
+  "homepage": "https://github.com/venanceagnero/companyweb#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongodb": "^4.2.2"
+  }
+}
